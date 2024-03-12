@@ -1,6 +1,6 @@
 {
   "name": "onedionys-notification-system",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Notification System) - Package to display notifications to users such as success, warning, or error messages.",
   "main": "src/notificationSystem.js",
   "directories": {
